@@ -131,7 +131,11 @@ distancias_nuevo, predecesores_nuevo = algoritmo_nuevo(grafo, 'A')
 ## 👥 Autores
 
 **Grupo 1 - Algoritmos Avanzados**
-- Luichoquispe
+- RICHARD BRAULIO PUMA CONDORI
+
+- JHOEL ALEX LUICHO QUISPE
+
+- ABELARDO TITO QUISPE
 
 ## 📄 Licencia
 
